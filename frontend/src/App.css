@@ -1,0 +1,4 @@
+/* App-level styles handled by Tailwind in Landing page */
+.App {
+    min-height: 100vh;
+}
